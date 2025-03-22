@@ -1,5 +1,6 @@
 # Switching-from-windows-to-linux
 Plan for opt out from windows
+
 Since windows 11 is allways like sh!t whatever trying to optimize it,this file is like a note that in a future i'm will using for setup and sending all of my stuff to linux.
 
 Linux distro will install in future:Fedora or Nobara
