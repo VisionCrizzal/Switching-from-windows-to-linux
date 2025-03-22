@@ -15,3 +15,4 @@ Plan:
 - Steam
 - Fornite (no longer playing) -> farlight 84,titanfall 2 (all require proton)
 - Vscode (no longer using) 
+-MSI center -> https://github.com/dmitry-s93/MControlCenter
