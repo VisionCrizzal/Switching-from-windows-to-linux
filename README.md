@@ -5,7 +5,7 @@ Since windows 11 is allways like sh!t whatever trying to optimize it,this file i
 
 Linux distro will install in future:Fedora or Nobara
 
-Post install: later
+Post install: https://github.com/devangshekhawat/Fedora-41-Post-Install-Guide
 
 Plan:
 - Office 365 -> Onlyoffice
@@ -19,3 +19,6 @@ Plan:
 - Vscode (no longer using) 
 - MSI center -> https://github.com/dmitry-s93/MControlCenter
 - Irfanview -> qview
+
+
+Will always update
